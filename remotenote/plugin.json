@@ -1,0 +1,12 @@
+{
+    "ID": "BF82F64505B34BD780794FB15135883A",
+    "ActionKeyword": "ob",
+    "Name": "Obsidian",
+    "Description": "",
+    "Author": "",
+    "Version": "0.0.2",
+    "Language": "python",
+    "Website": "",
+    "IcoPath": "./icon.png",
+    "ExecuteFileName": "run.py"
+}
