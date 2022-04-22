@@ -10,10 +10,11 @@
   <img src="https://user-images.githubusercontent.com/89298319/164767753-2000a8f4-c90d-46f6-9879-67183eb19f57.png" width="49%"/>
   </p>
   <div class="desc" align="left" width="49%"><b>cln-Solarized-Darker.xaml</b></div>
-  <div class="desc" align="right" width="49%"><b>cln-Solarized-Dark.xaml/b></div>
+  <div class="desc" align="right" width="49%"><b>cln-Solarized-Dark.xaml</b></div>
   <p>
   <img src="https://user-images.githubusercontent.com/89298319/164767876-5a3b5237-da93-42fe-afe5-6dc79340e27d.png" width="49%"/>
-  <b>Nordbyzurg.xaml : </b>non <i>cln-</i> file (subtitles are visible)
+  </p>
+  <b>Nordbyzurg.xaml :</b> non <i>cln-</i> file (subtitles are visible)
   </p>
   
 
