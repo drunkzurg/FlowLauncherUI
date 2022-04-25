@@ -16,7 +16,7 @@ These are a set of custom themes for [FlowLauncher](https://github.com/Flow-Laun
   <div class="desc" align="left" width="49%"><b>cln-Solarized-Darker.xaml</b></div>
   <div class="desc" align="right" width="49%"><b>cln-Solarized-Dark.xaml</b></div>
   <p>
-  <img src="https://user-images.githubusercontent.com/89298319/164767876-5a3b5237-da93-42fe-afe5-6dc79340e27d.png" width="49%"/>
+  <img src="https://user-images.githubusercontent.com/89298319/164767876-5a3b5237-da93-42fe-afe5-6dc79340e27d.png" width="50%"/>
   </p>
   <b>Nordbyzurg.xaml :</b> non <i>cln-</i> file (subtitles are visible)
   </p>
