@@ -1,0 +1,12 @@
+{
+    "ID": "BOOGABOOGA",
+    "ActionKeyword": "ob",
+    "Name": "FleetingNotes",
+    "Description": "Capture your fleeting thoughts onto obsidian",
+    "Author": "Dzurg",
+    "Version": "0.0.1",
+    "Language": "python",
+    "Website": "",
+    "IcoPath": "./icon.png",
+    "ExecuteFileName": "run.py"
+}
