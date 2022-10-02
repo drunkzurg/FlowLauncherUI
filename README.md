@@ -1,10 +1,10 @@
 # Showcase
   <p align="centre">
   <img src="https://user-images.githubusercontent.com/89298319/164767854-9713037a-42f1-4ffb-adc9-d3f99d61c7d5.png" width="49%"/>
-  <img src="https://user-images.githubusercontent.com/89298319/164766179-c02bf2bb-fe67-4a81-a36a-2b379ddd0d28.png" width="49%"/>
+  <img src="https://user-images.githubusercontent.com/89298319/164767876-5a3b5237-da93-42fe-afe5-6dc79340e27d.png" width="49%"/>
   </p>
   <div class="desc" align="left" width="49%" ><b>cln-Nordbyzurg.xaml</b></div>
-  <div class="desc" align="right" width="49%"><b>cln-Solarized-Light.xaml</b></div>
+  <div class="desc" align="right" width="49%"><b>Nordbyzurg.xaml :</b> non <i>cln-</i> file (subtitles are visible) </div>
   <p align="centre">
   <img src="https://user-images.githubusercontent.com/89298319/164766903-205f4d2a-0161-41c6-a6f9-7ad00e3881fb.png" width="49%"/>
   <img src="https://user-images.githubusercontent.com/89298319/164767753-2000a8f4-c90d-46f6-9879-67183eb19f57.png" width="49%"/>
@@ -13,13 +13,28 @@
   <div class="desc" align="right" width="49%"><b>cln-Solarized-Dark.xaml</b></div>
   <p>
    <p align="centre">
-  <img src="https://user-images.githubusercontent.com/89298319/164767876-5a3b5237-da93-42fe-afe5-6dc79340e27d.png" width="49%"/>
+  <img src="https://user-images.githubusercontent.com/89298319/164766179-c02bf2bb-fe67-4a81-a36a-2b379ddd0d28.png" width="49%"/>
   </p>
-  <div class="desc" align="left" width="49%"><b>Nordbyzurg.xaml :</b> non <i>cln-</i> file (subtitles are visible) </div>
+  <div class="desc" align="left" width="49%"><b>ln-Solarized-light.xaml</div>
 
 ## New
-  <img src="https://user-images.githubusercontent.com/89298319/173177051-113a3339-0cec-426f-a478-a929b6f83c0a.png" width="49%"/>
-  <div class="desc" align="left" width="40%"><b>Draculabyzurg.xaml</b></div>
+
+   <p align="centre">
+  <img src="https://user-images.githubusercontent.com/89298319/193436933-94aec5f0-c766-418e-8a55-7233c5d0c313.png" width="49%"/>
+  <img src="https://user-images.githubusercontent.com/89298319/193436866-e73fe953-f604-4397-9b57-06041d8722a1.png" width="49%"/>
+  </p>
+  <div class="desc" align="left" width="49%" ><b>cln-Draculabyzurg.xaml</b></div>
+  <div class="desc" align="right" width="49%"><b>Everforestbyzurg.xaml</b></div>
+  <p align="centre">
+  <img src="https://user-images.githubusercontent.com/89298319/193437010-6a876904-506e-4e9a-9093-e4e20dad74cb.png" width="49%"/>
+  </p>
+  <div class="desc" align="left" width="49%"><b>Gruvboxbyzurg.xaml</b></div>
+  <p>
   
 #### .xaml files
 These are a set of custom themes for [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher/) abiding the [Solarized](https://ethanschoonover.com/solarized/) and [Nord](https://www.nordtheme.com/) colour palettes. File with the prefix *cln-* blends ```"ItemSubTitleStyle"``` with the background. It can be used to hide sensitive file paths or achieve a cleaner look in general.
+
+
+
+
+
