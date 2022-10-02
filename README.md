@@ -32,7 +32,7 @@
 
 
 #### .xaml files
-These are a set of custom themes for [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher/) abiding the [Solarized](https://ethanschoonover.com/solarized/) and [Nord](https://www.nordtheme.com/) colour palettes. File with the prefix *cln-* blends ```"ItemSubTitleStyle"``` with the background. It can be used to hide sensitive file paths or achieve a cleaner look in general.
+These are a set of custom themes for [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher/) abiding the [Solarized](https://ethanschoonover.com/solarized/), [Nord](https://www.nordtheme.com/), [Dracula](https://draculatheme.com/), [Gruvbox][https://github.com/morhetz/gruvbox) and [Everforest](https://github.com/sainnhe/everforest) colour palettes. File with the prefix *cln-* blends ```"ItemSubTitleStyle"``` with the background. It can be used to hide sensitive file paths or achieve a cleaner look in general.
 
 
 
