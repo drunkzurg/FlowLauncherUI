@@ -6,8 +6,8 @@
   <div class="desc" align="left" width="49%" ><b>cln-Nordbyzurg.xaml</b></div>
   <div class="desc" align="right" width="49%"><b>Nordbyzurg.xaml :</b> non <i>cln-</i> file (subtitles are visible) </div>
   <p align="centre">
-  <img src="https://user-images.githubusercontent.com/89298319/164766903-205f4d2a-0161-41c6-a6f9-7ad00e3881fb.png" width="49%"/>
-  <img src="https://user-images.githubusercontent.com/89298319/164767753-2000a8f4-c90d-46f6-9879-67183eb19f57.png" width="49%"/>
+  <img src="https://user-images.githubusercontent.com/89298319/193437185-924f0ba9-3056-4ff3-a9fc-33614d1d4022.png" width="49%"/>
+  <img src="https://user-images.githubusercontent.com/89298319/193437185-924f0ba9-3056-4ff3-a9fc-33614d1d4022.png" width="49%"/>
   </p>
   <div class="desc" align="left" width="49%"><b>cln-Solarized-Darker.xaml</b></div>
   <div class="desc" align="right" width="49%"><b>cln-Solarized-Dark.xaml</b></div>
